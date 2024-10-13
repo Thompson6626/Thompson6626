@@ -46,7 +46,6 @@ Build Tools:
 
 <br />
 
-
 ## My stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thompson6626&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thompson6626&layout=pie&theme=dark)](https://github.com/thompson6626/github-readme-stats)
 
