@@ -14,10 +14,17 @@ Languages:
 <br />
 Framework:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+ <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?logo=Hibernate&logoColor=white"></a>
+<a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
 <br />
 Build Tools:
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+
+### Databases
+<a href="#"><img alt="MySQL" src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&logoColor=white&labelColor=blue"></a>
+<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169e1?logo=postgresql&logoColor=white"></a>
+
 
 ### Developer Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
