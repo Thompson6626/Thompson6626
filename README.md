@@ -3,7 +3,7 @@
 ## My Stack
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,python,js,ts,spring,angular,tailwindcss,html,css,postgres,maven,docker" alt="Java,Python,Javascript,Typescript,Spring,Angular,TailwindCSS,Html,Css,PostgreSQL,Maven,Docker">
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts,spring,angular,react,tailwindcss,html,css,postgres,mongodb,maven,gradle,docker,go,rust" alt="Java,Python,Javascript,Typescript,Spring,Angular,React,TailwindCSS,Html,Css,PostgreSQL,MongoDB,Maven,Gradle,Docker,Go,Rust">
   </a>
 </p>
 
